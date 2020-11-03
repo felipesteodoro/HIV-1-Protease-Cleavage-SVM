@@ -104,7 +104,7 @@ X = np.vstack(X)
 
 run_experiment(X, y)
 
-#Experiment 2 - #Experiment 1 - Following the author's methodology
+#Experiment 2 - #Following the our's methodology
 X = []
 
 for p in patterns:  
